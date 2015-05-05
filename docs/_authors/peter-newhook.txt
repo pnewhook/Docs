@@ -1,0 +1,13 @@
+Author
+^^^^^^
+.. container:: author
+
+	.. container:: photo
+
+		.. image:: /_authors/photos/peter-newhook.jpg
+
+	.. container:: bio
+
+		Peter Newhook is a Senior Consultant at Infusion_ in Toronto.
+
+.. _Infusion: http://infusion.com/
